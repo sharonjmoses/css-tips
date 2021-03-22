@@ -1,0 +1,12 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    overflow: hidden;
+}
+
+.curved {
+    background: black;
+    color: #ffff;
+    text-align: center;
+}
